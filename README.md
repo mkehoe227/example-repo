@@ -1,2 +1,2 @@
 # Example repository
-Repository I created to test the different functionality of git
+Repository I created to test the different functionality of git.
